@@ -625,6 +625,11 @@
   <string name="recents_clear_all_location_bottom_right">右下方</string>
   <string name="recents_clear_all_location_bottom_left">左下方</string>
   <string name="recents_clear_all_location_bottom_center">下方中央</string>
+  <string name="recents_icon_pack_title">图标包</string>
+  <string name="recents_icon_pack_summary">为最近任务面板中的应用程序应用一个自定义图标包</string>
+  <string name="no_iconpacks_summary">未安装图标包</string>
+  <string name="dialog_pick_iconpack_title">选择图标包</string>
+  <string name="default_iconpack_title">默认图标</string>
   <!-- Recents Membar -->
   <string name="systemui_recents_mem_display_title">显示内存栏</string>
   <string name="systemui_recents_mem_display_summaryOn">启用运存栏</string>
